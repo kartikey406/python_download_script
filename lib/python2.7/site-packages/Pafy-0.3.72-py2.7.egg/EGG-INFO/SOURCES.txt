@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+Pafy.egg-info/PKG-INFO
+Pafy.egg-info/SOURCES.txt
+Pafy.egg-info/dependency_links.txt
+Pafy.egg-info/top_level.txt
+pafy/__init__.py
+pafy/pafy.py
+scripts/ytdl

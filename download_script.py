@@ -4,7 +4,7 @@ import pafy
 import re
 z=[]
 m=[]
-r=requests.get("https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A")
+r=requests.get("https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A") # enter the youtube playist url....
 soup=BeautifulSoup(r.content)
 for links in soup.findAll('a'):
 	z.append(links.get('href'))

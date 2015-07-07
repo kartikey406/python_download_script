@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pafy/__init__.py
+pafy/pafy.py
+pafy.egg-info/PKG-INFO
+pafy.egg-info/SOURCES.txt
+pafy.egg-info/dependency_links.txt
+pafy.egg-info/top_level.txt
+scripts/ytdl
